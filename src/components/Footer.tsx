@@ -11,8 +11,8 @@ function  Footer() {
         <div className="flex flex-col justify-center">
           <Link href={"/"} className="self-center">
             <div className="flex gap-2">
-              <Image alt="AI Lease" priority height={32} width={32} src={Logo}></Image>
-              <h1 className='text-xl  text-white font-bold'>AI Product Rewrite</h1>
+              <Image alt="AI Lease" priority src={Logo}></Image>
+              <h1 className='text-xl  text-white font-bold'>App name</h1>
             </div>
           </Link>
         </div>
