@@ -6,6 +6,8 @@ It includes the following tech-stack:
 - Typescript 5
 - NextJs 14
 - Firebase 9
+- Headuless UI
+- Tailwind CSS
 
 ## Hosting
 It's preferred choice for hosting is Vercel
