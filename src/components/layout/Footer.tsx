@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import Logo from '../assets/ai-lease-white-logo.svg'
+import Logo from '../../assets/ai-lease-white-logo.svg'
 
 function  Footer() {
   return (

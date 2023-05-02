@@ -2,7 +2,7 @@ import { useAuth } from '@/contexts/AuthContext'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import Logo from '../assets/product_phraser_logo.svg'
+import Logo from '../../assets/product_phraser_logo.svg'
 
 function Navbar() {
   const {loginGoogle,currentUser,logout} = useAuth()
